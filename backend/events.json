@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"A new event","image":"https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg","date":"2022-10-01","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"ikhsan@gmail.com","password":"$2a$12$IMTI/9KH7v26pm9aP7ajkOC7mxNUqEGRfVv0JgeNphfYRUioUnAT.","id":"b3d1a580-fc4e-4585-829b-3615c105811c"},{"email":"ikhsan@gmail.coma","password":"$2a$12$Opylm2yQJzxO8nr4ZcCwtuSNCWrLvKZjbWuTqW8WLdXYoQoUEh/42","id":"0fee5289-1686-438e-ab03-fc813d3ed7ca"},{"email":"ikhsan@gmail.comu","password":"$2a$12$DiAYK7Kwv4BF/fex88ibBuQPlSOif5gYTWLLkNHMXAuuSWew1a4jO","id":"f592170a-1669-44c7-bca2-49ee3a2a6826"},{"email":"ikhsan@gmail.com1","password":"$2a$12$1z5/UJsFxoufTuamYiNfhOxKS4y.6ywyyEDnFVGVzymNfijVHm10G","id":"b2e61940-daa4-478b-8121-988a8755fa73"},{"email":"ikhsan@gmail.comas","password":"$2a$12$JH18XuONWtJG6EDvB3toPO2FYYctIQQ3a05z9ZnodEGD20yeSjS6u","id":"1865301d-25c5-41eb-806d-55c7319a3cfa"},{"email":"ikhsan@gmail.comv","password":"$2a$12$P.LIEENpW33VoGhhxan24u8CwWNMJTF.M3d815gfHrVAwijc.WqoK","id":"8ed66d62-530e-4b67-8696-c23fac40a020"},{"email":"ikhsan@gmail.comb","password":"$2a$12$IIHq8Wn.HnLaqCM1pqKvv.fNouQXGps5kr9QPeHzbQtiylcUA3vti","id":"a08aaeff-d315-4cfe-b3d8-0e7e42a359dd"},{"email":"ikhsan@gmail.comh","password":"$2a$12$tObnY9P1oJeLowzvBthBB.QERKKr5CkMSt9tZxaI8eGz8MHfpfAiW","id":"514cc80c-b5db-4761-97e1-07722649ac92"},{"email":"ikhsan@gmail.com2","password":"$2a$12$7g7k8Z/pmS23Gc0QmZt10u..x.W16QShLl4YTPBWTtGqbwa5VFXrG","id":"aed66534-c73f-4de2-9688-4a26184e8588"}]}
