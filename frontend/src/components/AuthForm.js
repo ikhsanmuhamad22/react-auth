@@ -29,23 +29,11 @@ function AuthForm() {
         {data && data.message && <p>{data.message}</p>}
         <p>
           <label htmlFor="email">Email</label>
-          <input
-            id="email"
-            type="email"
-            name="email"
-            required
-            defaultValue="ikhsan@gmail.com"
-          />
+          <input id="email" type="email" name="email" required />
         </p>
         <p>
           <label htmlFor="image">Password</label>
-          <input
-            id="password"
-            type="password"
-            name="password"
-            required
-            defaultValue="ikhsanaja"
-          />
+          <input id="password" type="password" name="password" required />
         </p>
         <div className={classes.actions}>
           <Link to={`?mode=${isLogin ? "signup" : "login"}`} type="button">
